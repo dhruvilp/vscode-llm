@@ -1,6 +1,9 @@
 client/env/
 client/api_client/__pycache__/
 
+multi_tool_agent/.env
+multi_tool_agent/.venv/
+
 node_modules/
 dist
 package-lock.json
